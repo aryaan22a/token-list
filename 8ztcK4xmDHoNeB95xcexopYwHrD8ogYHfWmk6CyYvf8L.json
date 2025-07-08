@@ -1,0 +1,11 @@
+{
+  "chainId": 101,
+  "address": "8ztcK4xmDHoNeB95xcexopYwHrD8ogYHfWmk6CyYvf8L",
+  "symbol": "USDE",
+  "name": "USDE COIN",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/aryaan22a/token-list/main/assets/mainnet/8ztcK4xmDHoNeB95xcexopYwHrD8ogYHfWmk6CyYvf8L.png",
+  "tags": [
+    "stablecoin"
+  ]
+}
