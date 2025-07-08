@@ -1,0 +1,12 @@
+{
+  "name": "AZAR COIN",
+  "symbol": "QARABAG",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xa6wLWkXJU9syfwtkmsnz6KvkgvE9gsqNUEfK4jokBY/logo.png",
+  "tags": ["utility-token", "community"],
+  "extensions": {
+    "website": "https://azarcoin.example.com",
+    "twitter": "https://twitter.com/azarcoin",
+    "description": "AZAR COIN ایک کمیونٹی بیسڈ ٹوکن ہے جو Qarabag کے جذبے سے متاثر ہے۔"
+  }
+}
